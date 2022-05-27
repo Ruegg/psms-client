@@ -1,6 +1,6 @@
 # PSMS Client
 
-PSMS Client is the client for PSMS(Private SMS), which is a lightweight server connected physically to a GSM board for creating your own secure SMS API.
+PSMS Client is the client for [PSMS(Private SMS)](https://github.com/Ruegg/psms), which is a lightweight server connected physically to a GSM board for creating your own secure SMS API.
 
 ## Installation
 
@@ -10,7 +10,7 @@ npm install psms-client
 
 ## Usage
 
-The client is extremely simple and wasn't build for error-checking, as I've mostly created this project in one night to both skirt the costs of services like Twilio, have personal phone numbers that are unblocked, and for fun. If the project gets traction, I'll consider rewriting it to have callbacks from the main server unique to each emitted event.
+The client is extremely simple and wasn't built for error-checking, as I've mostly created this project in one night to both skirt the costs of services like Twilio, have personal phone numbers that are unblocked, and for fun. If the project gets traction, I'll consider rewriting it to have callbacks from the main server unique to each emitted event.
 
 
 ### All-inclusive example
